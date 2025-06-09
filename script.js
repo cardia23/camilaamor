@@ -149,7 +149,7 @@ window.addEventListener("resize", () => {
   canvasEstrelas.height = window.innerHeight;
 });
 
-const mensagemTextoCompleta = `Desde o dia em que te vi pela primeira vez eu me apaixonei, soube que você era a pessoa certa, naquele nosso encontro no zoológico. Você chegou de surpresa na minha vida, transformando tudo para melhor — foi, sem dúvida, a melhor coisa que me aconteceu. Sou eternamente grato a Deus por ter cruzado nossos caminhos.
+const mensagemTextoCompleta = `Desde o dia em que te vi pela primeira vez eu me apaixonei. Soube que você era a pessoa certa, naquele nosso encontro no zoológico. Você chegou de surpresa na minha vida, transformando tudo para melhor — foi, sem dúvida, a melhor coisa que me aconteceu. Sou eternamente grato a Deus por ter cruzado nossos caminhos.
 Amo cada detalhe seu: seus olhos que brilham, sua boca que encanta, seu sorriso que aquece, a forma delicada como cuida de mim e a sua constante preocupação. Reparo em cada pequeno gesto seu e, a cada dia que passa, minha certeza só cresce: você é a mulher da minha vida.
 Desejo que nosso amor floresça em um futuro cheio de prosperidade e bênçãos. Juntos, vamos vencer cada desafio, superar todos os obstáculos. Obrigado por ser exatamente quem você é e por fazer da minha vida um lugar mais feliz.💖`;
 
